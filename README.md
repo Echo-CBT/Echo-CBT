@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo.png" width="200px" />
+
 # Echo CBT
 
 ## Lets Fight Depression Together
