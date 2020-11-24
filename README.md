@@ -62,6 +62,19 @@ This complete list of Echo-CBT repos are:
 
 <br />
 
+## Initial Team & Ideators
+A big thanks to all my friends who helped me develop and build this idea to what it is right now. This is the list of all people who developed and ideated on this idea with me initially
+- [Ankush Malaker](https://github.com/AnkushMalaker) - ML/DL/Presentations
+- [Sukriti](https://github.com/sukritij29) - ML/DL/Presentations
+- [Sriharsha Bommana](https://github.com/harshablast) - ML/DL
+- [Fenil Jain](https://github.com/feniljain) - Flutter development
+- [Yuvraj Singh](https://github.com/iamuv2000) - Flutter development
+- [Gagan Varma](https://github.com/gaganvarma) - App design
+- [Ankit Mishra](https://github.com/alexmishra) - Logo design
+- [Sarthak Pranesh (me)](https://github.com/sarthakpranesh) - Backend development
+
+<br />
+
 ## Suggestions and Feature Requests
 We are open to all suggestions, ideas, feature request and discussions, if you any please feel free to open an issue [here](https://github.com/Echo-CBT/Echo-CBT/issues)
 
@@ -69,6 +82,6 @@ We are open to all suggestions, ideas, feature request and discussions, if you a
 
 <div align="center">
 
-##### Made with ❤️ by Team Echo
+#### Made with ❤️ by Team Echo
 
 </div>
